@@ -1,0 +1,75 @@
+{
+  "eta": 0.22,
+  "length": 50,
+  "measured_sites": 46,
+  "delta": 0.986,
+  "J_over_h_Hz": 10.2,
+  "baseline_dt": 0.1,
+  "baseline_chi": 256,
+  "trusted_u": 15.0,
+  "trusted_time_ms": 234.0513868998461,
+  "measurements_compared": 6,
+  "within_one_error": 5,
+  "rmse_P": 0.06863685755136664,
+  "mean_residual_P": 0.049975736362845614,
+  "max_abs_residual_P": 0.13358162537422213,
+  "spatial_rmse": 0.035961911134881494,
+  "max_dt_change_P": 0.00020176523879533725,
+  "max_chi_change_P": 0.00029764964221357104,
+  "comparisons": [
+    {
+      "time_ms": 39.0,
+      "experiment_P": 0.3524111221646345,
+      "experiment_error": 0.07439299402244758,
+      "simulation_P": 0.2975050804288486,
+      "residual": 0.05490604173578589,
+      "dt_change": 6.084066575606355e-05,
+      "chi_change": 5.269232736684201e-15
+    },
+    {
+      "time_ms": 78.0,
+      "experiment_P": 0.5023626923477069,
+      "experiment_error": 0.07182101102684574,
+      "simulation_P": 0.49625484504662737,
+      "residual": 0.00610784730107955,
+      "dt_change": 7.687475783604616e-05,
+      "chi_change": 1.5073613583431492e-08
+    },
+    {
+      "time_ms": 117.0,
+      "experiment_P": 0.6475227785932774,
+      "experiment_error": 0.07180379439878865,
+      "simulation_P": 0.6619455982581786,
+      "residual": -0.01442281966490111,
+      "dt_change": 0.00014545214833668133,
+      "chi_change": 8.350595955214925e-06
+    },
+    {
+      "time_ms": 156.0,
+      "experiment_P": 0.878953700131431,
+      "experiment_error": 0.07204904759137126,
+      "simulation_P": 0.8187932738564447,
+      "residual": 0.0601604262749863,
+      "dt_change": 0.0002008058966536718,
+      "chi_change": 7.458159521977356e-07
+    },
+    {
+      "time_ms": 195.0,
+      "experiment_P": 1.0231785400934268,
+      "experiment_error": 0.07301901310012855,
+      "simulation_P": 0.9636572429375259,
+      "residual": 0.05952129715590093,
+      "dt_change": 7.478030123795752e-05,
+      "chi_change": 0.00017971833050151024
+    },
+    {
+      "time_ms": 234.0,
+      "experiment_P": 1.2310820554867088,
+      "experiment_error": 0.07362067144781217,
+      "simulation_P": 1.0975004301124867,
+      "residual": 0.13358162537422213,
+      "dt_change": 6.539172064273021e-05,
+      "chi_change": 0.00020900474909293297
+    }
+  ]
+}
